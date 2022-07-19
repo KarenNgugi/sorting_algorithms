@@ -1,6 +1,6 @@
 #include "sort.h"
 
-/*
+/**
  * shell_sort - sort array using shell sort algorithm
  * @array: array to be sorted
  * @size: size of array
